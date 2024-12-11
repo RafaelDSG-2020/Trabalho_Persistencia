@@ -1,0 +1,34 @@
+2024-11-30 19:08:58 - app_logger - INFO - API root endpoint accessed.
+2024-11-30 19:09:08 - app_logger - INFO - Todos os eventos foram listados.
+2024-11-30 19:09:48 - app_logger - INFO - Evento criado: title='Teste5' date='2024-11-30' location='Quixada' capacity=40
+2024-11-30 19:10:29 - app_logger - INFO - Todos os eventos foram listados.
+2024-11-30 19:16:14 - app_logger - INFO - Evento encontrado: title='Teste5' date='2024-11-30' location='Quixada' capacity=40
+2024-11-30 19:16:20 - app_logger - WARNING - Busca falhou: Evento 'teste55' não encontrado.
+2024-11-30 19:16:42 - app_logger - INFO - Evento atualizado: title='string' date='string' location='string' capacity=0
+2024-11-30 19:16:59 - app_logger - INFO - Todos os eventos foram listados.
+2024-11-30 19:17:50 - app_logger - INFO - Evento excluído: string
+2024-11-30 19:17:51 - app_logger - WARNING - Tentativa de exclusão falhou: Evento 'string' não encontrado.
+2024-11-30 19:18:01 - app_logger - INFO - Todos os eventos foram listados.
+2024-11-30 23:02:14 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-11-30 23:02:32 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-11-30 23:02:39 - app_logger - WARNING - Busca falhou: Evento 'compactar' não encontrado.
+2024-11-30 23:02:41 - app_logger - WARNING - Busca falhou: Evento 'compactar' não encontrado.
+2024-11-30 23:03:08 - app_logger - WARNING - Busca falhou: Evento 'filtro' não encontrado.
+2024-11-30 23:03:19 - app_logger - WARNING - Busca falhou: Evento 'hash' não encontrado.
+2024-11-30 23:03:21 - app_logger - WARNING - Busca falhou: Evento 'hash' não encontrado.
+2024-12-07 10:30:21 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:45:35 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:46:24 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:47:14 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:47:58 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:49:20 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:49:22 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:49:22 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:49:23 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:49:24 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:49:43 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:51:29 - app_logger - WARNING - Busca falhou: Evento 'quantidade' não encontrado.
+2024-12-07 10:51:36 - app_logger - INFO - Todos os eventos foram listados.
+2024-12-07 10:51:39 - app_logger - INFO - Todos os eventos foram listados.
+2024-12-07 10:52:09 - app_logger - INFO - Todos os eventos foram listados.
+2024-12-07 10:52:10 - app_logger - INFO - Todos os eventos foram listados.

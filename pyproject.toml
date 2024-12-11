@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "academic_event_manager"
+version = "0.1.0"
+description = ""
+authors = ["Rafael Gonçalves <rafagomes53@alu.ufc.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
